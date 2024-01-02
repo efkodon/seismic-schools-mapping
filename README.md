@@ -15,7 +15,7 @@
                 <p> 
                 </p>
                 <h2 class="title">Skills Learned</h2>
-                <p>This project utilized tools including Adobe Illustrator, ai2html, QGIS and scrollama.
+                <p>This project utilized tools including Adobe Illustrator, ai2html, QGIS and Scrollama.
                 </p>
                 <h2 class="title">Future Work</h2>
                 <p>I aim to expand this project to examine the above issues in greater detail.
