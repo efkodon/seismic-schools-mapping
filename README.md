@@ -4,7 +4,7 @@
   <body>
         <div class="section">
             <div class="container content">
-                <h1 class="title">Thousands of Public School Students in Washington State Head Back to Class in Schools with 'Very High' Seismic Risks</h1>
+                <h1 class="title">As Students in Washington State Head Back to Class, Information about the Seismic Readiness of School Buildings is Hard to Find</h1>
                 <h2 class="title">Overview</h2>
                 <p> I created this project as a student in The Lede Program at Columbia University's Graduate School of Journalism in August 2023. The goal of the project was to explore earthquake risk levels in relation to K-12 public school locations in Washington State. The story explains some of the key factors used to determine risk levels at individual schools, and the complexity in understanding these determinations with limited available information.
                 </p>
